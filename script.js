@@ -111,7 +111,7 @@ const AestheticGym = () => {
                         onClick: () => scrollToSection('home')
                     },
                         React.createElement('img', { 
-                            src: "https://i.imgur.com/8QZ5yXg.png",
+                            src: "./logo.png",
                             alt: "Aesthetic Gym",
                             className: "w-12 h-12 transition-transform hover:scale-110"
                         }),
