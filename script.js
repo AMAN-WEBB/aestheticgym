@@ -153,7 +153,7 @@ const AestheticGym = () => {
                 React.createElement('img', {
                     src: "./logo.png",
                     alt: "Aesthetic Gym",
-                    className: "w-24 h-24 mx-auto mb-8"
+                    className: "w-34 h-34 mx-auto mb-8"
                 }),
                 React.createElement('h1', { className: "text-5xl sm:text-6xl md:text-8xl font-bold text-gray-100 mb-6 tracking-tight leading-tight" },
                     'BUILD YOUR BEST',
