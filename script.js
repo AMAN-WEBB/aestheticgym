@@ -113,7 +113,7 @@ const AestheticGym = () => {
                         React.createElement('img', { 
                             src: "./logo.png",
                             alt: "Aesthetic Gym",
-                            className: "w-12 h-12 transition-transform hover:scale-110"
+                            className: "w-24 h-24 transition-transform hover:scale-110"
                         }),
                         React.createElement('span', { className: "text-2xl font-bold text-gray-100 tracking-tight" }, 'AESTHETIC GYM')
                     ),
@@ -153,7 +153,7 @@ const AestheticGym = () => {
                 React.createElement('img', {
                     src: "./logo.png",
                     alt: "Aesthetic Gym",
-                    className: "w-32 h-32 mx-auto mb-8"
+                    className: "w-64 h-64 mx-auto mb-8"
                 }),
                 React.createElement('h1', { className: "text-5xl sm:text-6xl md:text-8xl font-bold text-gray-100 mb-6 tracking-tight leading-tight" },
                     'BUILD YOUR BEST',
