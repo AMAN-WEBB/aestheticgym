@@ -9,7 +9,7 @@ const Icon = ({ name, className = "w-6 h-6" }) => {
 };
 
 const AestheticGym = () => {
-    const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+    const [mobileMenuOpen, setMobileMenuOpen] = useState(true);
     const [scrolled, setScrolled] = useState(false);
     const [formData, setFormData] = useState({ name: '', email: '', phone: '', message: '' });
     const [formStatus, setFormStatus] = useState(null);
